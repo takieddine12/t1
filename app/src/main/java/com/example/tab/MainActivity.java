@@ -17,6 +17,6 @@ public class MainActivity extends AppCompatActivity {
         tabLayout = findViewById(R.id.tabLayout);
 
         tabLayout.addTab(tabLayout.newTab().setText("Animation"));
-        tabLayout.addTab(tabLayout.newTab().setText("Background"));
+        tabLayout.addTab(tabLayout.newTab().setText("Fun"));
     }
 }

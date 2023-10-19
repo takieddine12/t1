@@ -17,6 +17,8 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         android:elevation="0dp"
+        app:tabGravity="center"
+        app:tabIndicatorGravity="bottom"
         android:tabStripEnabled="false"
         app:tabIndicatorHeight="10dp"
         app:tabIndicatorFullWidth="false"
